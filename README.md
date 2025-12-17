@@ -21,8 +21,18 @@ A simple and customizable Python based file organiztion tool designed to automat
     ├── README.md
     └── LICENSE
 
-## Requirements 
-- Python 3 installed
+
+## Installation
+
+### Prerequisites
+- Python 3.9 or higher
+- Access to the directory you want to organize
+
+### Clone the Repository
+
+    git clone https://github.com/maxmoeller-147/file_organizer.git
+
+   
 
 ## How it works
 1. The script scans a target directory
